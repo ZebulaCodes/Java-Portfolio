@@ -251,7 +251,7 @@ public class Movies {
                 int randomMovie = rand.nextInt(shuffle.length);
                 System.out.println("Now watching " + shuffle[randomMovie] + ". Enjoy!");
                 break outerBreak;
-            }
+            } // End Random Movie 'if'
 
         } while (!movieCategory.equalsIgnoreCase("q"));
     } // End main
