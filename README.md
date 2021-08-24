@@ -28,3 +28,14 @@ There also exists a "shuffle" button that will randomly select a movie from a 'm
 
 After selecting a movie, the nested do/while loop will break out and also break the labelled do/while to end the program.
 There also exists the option to press "Q" to quit and end the program.
+
+========================================================================================================================================================
+
+# Letters.java
+Basic 'letter to yourself'
+
+Very simple usage of different variables, flushing the buffer and printing the results. 
+A good starter program.
+
+This will ask for your name to be signed at the end as well as some basic questions about where you are in life, where you want to be
+and how you plan to get there. It will also ask how many years before the letter can be opened.
