@@ -1,4 +1,4 @@
-# Java-Portfolio
+# Random-Java-Projects
 A portfolio containing most of my academic and personal projects
 
 # Pokemon2.java
